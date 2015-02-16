@@ -14,6 +14,7 @@ Based on Matt Ratto's [critical making workshop](http://blog.humlab.umu.se/?p=52
 - the internet
 - wifi
 - bits, bytes, kilobytes, megabytes, gigabytes, terrabytes
+- the cloud
 
 
 
