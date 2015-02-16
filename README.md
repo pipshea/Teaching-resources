@@ -1,6 +1,4 @@
-# Lessons
-
-###Pip's teaching ideas
+# Pip's teaching ideas
 
 ---
 
